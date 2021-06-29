@@ -1,10 +1,10 @@
 # RussianMultiWOZ
 We create a Russian version of the MultiWOZ benchmark.
 
-## folder 'data
+## Folder 'data'
 
-## Initial regular expressions
+## Folder 'interim'
 
-## Slot alignment in both versions
+## Folder 'generated'
 
-## Generation result
+## Folder 'interim'
