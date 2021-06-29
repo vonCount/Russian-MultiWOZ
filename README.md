@@ -1,7 +1,7 @@
 # RussianMultiWOZ
 We create a Russian version of the MultiWOZ benchmark.
 
-## Contains initial translations
+## folder 'data
 
 ## Initial regular expressions
 
