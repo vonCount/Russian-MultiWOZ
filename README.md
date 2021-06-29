@@ -7,4 +7,4 @@ We create a Russian version of the MultiWOZ benchmark.
 
 ## Folder 'generated'
 
-## Folder 'interim'
+## Folder 'DialogueCorpus_v_2.ipynb'
