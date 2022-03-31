@@ -11,8 +11,6 @@ Russian MultiWOZ -  аннотированная коллекция письме
 
 # Baseline
 
-:bangbang: This part relates to the first version of the dataset and evaluation scripts.
-
 ### Requirements
 Python 2 with `pip`, `pytorch==0.4.1`
 
