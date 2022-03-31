@@ -9,20 +9,6 @@
 Состояние убеждения состоит из трех разделов: semi, book и booked. Semi относится к слотам из определенного домена. Book относится к слотам бронирования для определенного домена, а booked - это подсписок словаря book с информацией о забронированном объекте (после того, как бронирование было сделано). Иногда туркеры ошибочно следуют к цели, что может привести к неверному состоянию убеждений. Совместная метрика точности включает ВСЕ слоты.
 
 
-
-## Folder 'data'
-Contains parsed Moscow Government Open Data
-
-## Folder 'interim'
-Contains the first version of the initial dialogs translation
-
-## Folder 'generated'
-Contains new dialogs generated with GPT-3
-
-
-# References
-
-
 # Baseline
 
 :bangbang: This part relates to the first version of the dataset and evaluation scripts.
