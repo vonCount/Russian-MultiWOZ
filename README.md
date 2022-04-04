@@ -9,6 +9,21 @@ RussianMultiWOZ повторяет формат данных, предложен
 
 Каждый диалог состоит из цели (goal), нескольких высказываний пользователя и системы, а также состояний (belief state). Кроме того, добавлено описание задачи на естественном языке, представленное туркерам, работающим со стороны посетителя. Диалоги с MUL в названии относятся к многодоменным диалогам. Диалоги с SNG относятся к однодоменным диалогам.
 
+
+# :thought_balloon: References
+Если вы используете какой-либо исходный код или наборы данных из этой работы, просим ссылаться на нас. Бибтексы перечислены ниже:
+```
+
+[Nikitin et al. 2022]
+@article{nikitin2022multiwoz,
+  title={Russian MultiWOZ 2.1: Multi-Domain Dialogue State Corrections and State Tracking Baselines},
+  author={Nikitin, Ilya and Kopachinskaya, Anastasia},
+  journal={arXiv preprint arXiv:1907.00000},
+  year={2022}
+}
+```
+
+
 # Бейзлайн
 
 ### Установка требований
